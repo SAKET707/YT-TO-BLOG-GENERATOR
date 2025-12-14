@@ -57,6 +57,25 @@ The pipeline follows a **stateless, sequential GenAI workflow**:
 
 ---
 
+## 🚀 Demo
+
+This demo shows the **YouTube to Blog Generator** in action using the following video:
+
+🔗 **YouTube Video Used:**  
+https://youtu.be/zo7i8VTpfNM?si=U5MGRPdPDkl3Hu_6
+
+> **Credit:** All original video content and ideas belong to the respective creator, **MrBeast**.  
+> This project only analyzes publicly available content for educational and demonstration purposes.
+
+The screenshots below illustrate the end-to-end workflow:
+- Generating a concise summary
+- Producing a full-length blog article
+
+|                          |                         |                       |
+|--------------------------|-------------------------|-----------------------|
+| <img src="https://github.com/user-attachments/assets/c8f0e239-9c0c-4514-8b1f-acb86e4fb87f" width="280" /> | <img src="https://github.com/user-attachments/assets/71489015-3cf9-4913-8816-d330685bc8bd" width="280" /> | <img src="https://github.com/user-attachments/assets/3b6c03c1-b78e-455c-808e-8cbc6aa81eb2" width="280" /> |
+
+
 ## 🛠 Tech Stack
 
 - **Python**
