@@ -1,11 +1,10 @@
 from crewai import Agent
-from dotenv import load_dotenv
 import os
+import streamlit as st
 
-load_dotenv()
 
-os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
-os.environ["OPENAI_API_BASE"] = os.getenv("OPENAI_API_BASE")
+os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+os.environ["OPENAI_API_BASE"] = st.secrets["OPENAI_API_BASE"]
 os.environ["OPENAI_MODEL_NAME"] = "llama-3.1-8b-instant"
 
 
