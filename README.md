@@ -1,6 +1,6 @@
 # 🎥 YouTube to Blog Generator
-
-🔗 **Live App:**  
+---
+## 🔗 **Live App:**  
 https://yt-to-blog-generator-by-saket.streamlit.app/
 
 ---
