@@ -1,35 +1,35 @@
-# 🎥 YouTube to Blog Generator
+#  YouTube to Blog Generator
 ---
-## 🔗 **Live App:**  
+##  **Live App:**  
 https://yt-to-blog-generator-by-saket.streamlit.app/
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **YouTube to Blog Generator** is a GenAI-powered web application that converts YouTube videos into:
 
-- ✅ A **concise video summary**
-- ✅ A **professionally written blog article** with controllable length
+-  A **concise video summary**
+-  A **professionally written blog article** with controllable length
 
 The app extracts video transcripts, performs structured research, and generates high-quality written content using **CrewAI agents** and **LLMs** — all through a simple Streamlit interface.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎥 Paste any YouTube video link
-- 🧠 Automatically extracts transcript + metadata
-- 📌 Generates a **clean summary paragraph** of the video
-- 📝 Generates a **full-length blog post**
-- ✍️ User-controlled blog length (word count)
-- 🚫 No promotions, links, or YouTube mentions in output
-- 📥 Download blog as a Markdown file
-- ☁️ Deployed on Streamlit Cloud
+-  Paste any YouTube video link
+-  Automatically extracts transcript + metadata
+-  Generates a **clean summary paragraph** of the video
+-  Generates a **full-length blog post**
+-  User-controlled blog length (word count)
+-  No promotions, links, or YouTube mentions in output
+-  Download blog as a Markdown file
+-  Deployed on Streamlit Cloud
 
 ---
 
-## 🧩 Architecture
+##  Architecture
 
 The pipeline follows a **stateless, sequential GenAI workflow**:
 
@@ -57,11 +57,11 @@ The pipeline follows a **stateless, sequential GenAI workflow**:
 
 ---
 
-## 🚀 Demo
+##  Demo
 
 This demo shows the **YouTube to Blog Generator** in action using the following video:
 
-🔗 **YouTube Video Used:**  
+ **YouTube Video Used:**  
 https://youtu.be/zo7i8VTpfNM?si=U5MGRPdPDkl3Hu_6
 
 > **Credit:** All original video content and ideas belong to the respective creator, **MrBeast**.  
@@ -76,7 +76,7 @@ The screenshots below illustrate the end-to-end workflow:
 | <img src="https://github.com/user-attachments/assets/c8f0e239-9c0c-4514-8b1f-acb86e4fb87f" width="280" /> | <img src="https://github.com/user-attachments/assets/71489015-3cf9-4913-8816-d330685bc8bd" width="280" /> | <img src="https://github.com/user-attachments/assets/3b6c03c1-b78e-455c-808e-8cbc6aa81eb2" width="280" /> |
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Streamlit**
@@ -87,7 +87,7 @@ The screenshots below illustrate the end-to-end workflow:
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
   - Batch processing (multiple YouTube URLs)
   - Social media post generation (LinkedIn / Twitter)
