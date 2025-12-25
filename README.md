@@ -82,8 +82,8 @@ The screenshots below illustrate the end-to-end workflow:
 - **Streamlit**
 - **CrewAI**
 - **LLMs**
-- `youtube-transcript-api`
-- `yt-dlp`
+- youtube-transcript-api
+- yt-dlp
 
 ---
 
